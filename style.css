@@ -1,0 +1,23 @@
+:root{
+    --bg:linear-gradient(135deg,#0a0f3d,#5323a6,#8a1f7a);
+    --todo-bg:white
+}
+
+.container-fluid{
+    background:var(--bg) ;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: poppins;
+
+
+}
+.todo-container{
+    background-color: var(--todo-bg);
+    height: 150px;
+    border-radius: 12px;
+    margin-top: 5rem;
+    
+}
+
