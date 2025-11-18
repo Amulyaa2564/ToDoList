@@ -1,9 +1,9 @@
-To-Do List App
+## To-Do List App
 
 A clean, responsive, and interactive To-Do List web application built using HTML, CSS, Bootstrap 5, FontAwesome Icons, and JavaScript.
 This app allows users to add, complete, and delete tasks with smooth UI interactions, plus localStorage support to save tasks even after page refresh.
 
-Features
+## Features
 
 Add new tasks with a single click or by pressing Enter
 
@@ -23,7 +23,7 @@ Supports dynamic task creation using JavaScript DOM methods
 
 Automatically restores tasks and reattaches events on reload
 
-Tech Stack
+## Tech Stack
 Technology	Purpose
 HTML5	Structure and layout
 CSS3 / Bootstrap 5	Design, responsiveness, spacing
@@ -38,7 +38,7 @@ ToDo-App/
 ├── script.js         # App logic, DOM manipulation, localStorage
 └── README.md         # Documentation
 
-How It Works
+## How It Works
 
 Type your task into the input field
 
@@ -60,7 +60,7 @@ All tasks automatically save to localStorage
 
 When the page reloads, tasks reappear with correct state
 
-Example Interactions
+## Example Interactions
 ✔ Adding Tasks
 
 → User types: “Complete assignment”
@@ -76,7 +76,7 @@ Example Interactions
 → Click trash icon → Task disappears
 → List updates in localStorage
 
-Theme Colors
+## Theme Colors
 Element	Color	Hex Code
 Background Gradient	Deep Violet Mix	linear-gradient(135deg, #0a0f3d, #5323a6, #8a1f7a)
 Card Background	White	#FFFFFF
@@ -86,7 +86,7 @@ Trash Icon	Dark Gray	#343A40
 Error Text	Red	#FF0000
 LocalStorage Behavior
 
-Tasks are saved automatically when:
+## Tasks are saved automatically when:
 
 a task is added
 
@@ -94,7 +94,7 @@ a task is marked complete
 
 a task is deleted
 
-On page load:
+## On page load:
 
 Saved tasks are restored automatically
 
@@ -134,14 +134,13 @@ Add categories or priority tags
 
 Sync tasks using a backend API (Node.js / Firebase)
 
-Live Demo
+## Live Demo
 
 <a href="https://amulyaa2564.github.io/ToDoList/"></a>
 
-Author
+## Author
 
-Amulya Gathala
+**Amulya Gathala**
 📧 Email: gathalaamulya25@gmail.com
-
 🔗 GitHub: https://github.com/Amulyaa2564<br>
 🔗 LinkedIn: www.linkedin.com/in/amulya-gathala
