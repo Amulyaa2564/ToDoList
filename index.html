@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
     <title>Document</title>
 
 </head>
@@ -16,9 +18,10 @@
         <div class="todo-container w-75 p-3" id="todoContainer">
             <h1>To do list 📃</h1>
             <div class="d-flex flex-row">
-            <input type="text" placeholder="Enter your todo task" class="form-control w-80" id="inputText">
-            <button class="btn btn-danger w-80" id="addButton">Add</button>
+                <input type="text" placeholder="Enter your todo task" class="form-control  mb-3 " id="inputText">
+                <button class="btn btn-danger mb-3" id="addButton">Add</button>
             </div>
+            <p id="errorMsg" class="errorMsg"></p>
             <div id="result-container">
                 
             </div>
