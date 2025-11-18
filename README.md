@@ -136,12 +136,12 @@ Sync tasks using a backend API (Node.js / Firebase)
 
 Live Demo
 
-<a href=" https://amulyaa2564.github.io/ToDoList/">
+<a href="https://amulyaa2564.github.io/ToDoList/">
 
 Author
 
-Your Name Here
+Amulya Gathala
 📧 Email: gathalaamulya25@gmail.com
 
-🔗 GitHub: https://github.com/Amulyaa2564
+🔗 GitHub: https://github.com/Amulyaa2564<br>
 🔗 LinkedIn: www.linkedin.com/in/amulya-gathala
